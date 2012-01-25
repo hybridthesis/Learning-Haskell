@@ -1,0 +1,9 @@
+On Linux computer, you have to compile/ghci with:
+
+import Graphics.SOE
+
+On Mac, you'll use
+
+import SOE
+
+Also, might get an error about isEmptyChan being deprecated though it still works.
