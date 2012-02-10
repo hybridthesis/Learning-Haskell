@@ -3,7 +3,7 @@ module Draw (inchToPixel, pixelToInch, intToFloat,
   ) where
 
   import Shape
-  import Graphics.SOE
+  import SOE
 
   xWin, yWin :: Int
   xWin = 600
